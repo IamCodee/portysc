@@ -13,11 +13,11 @@
 
 > cd /portysc
 
-> sudo pip install -r requirements.txt
+> sudo pip install -r requirements.txt /// sudo pip3 install -r requirements.txt
 
 > python3 portysc.py
 
-# screenshot
+# Screenshot
 
 
 
