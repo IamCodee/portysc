@@ -18,7 +18,6 @@ print("")
 print(Fore.YELLOW +"""
 
 > Coded by @IamCodee
-> Twitter  @IamCode7
 > Github   @IamCodee
 > Version 1.0 
 
