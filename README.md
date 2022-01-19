@@ -15,9 +15,7 @@
 
 > python3 portysc.py
 
-# Screenshot
 
-![](screenshot/porty.png)
 
 
 
